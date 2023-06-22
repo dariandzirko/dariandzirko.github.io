@@ -1,3 +1,8 @@
+#canvas-container {
+    display: flex;
+    justify-content: center;
+}
+
 div#water_shader {
     margin: 0 auto;
 
