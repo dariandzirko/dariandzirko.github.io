@@ -10,5 +10,5 @@ div#wasm-example>canvas {
 }
 
 * {
-    box-sizing: border-box
+    box-sizing: border-box;
 }
